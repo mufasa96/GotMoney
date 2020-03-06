@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Got Money</string>
+    <string name="tab_text_1">Budget</string>
+    <string name="tab_text_2">Overview</string>
+</resources>
